@@ -1,0 +1,78 @@
+TEST INPUTS FOR METRICON AI SUPPORT CO-PILOT
+
+==========================
+1. TEST CASES WITH RESOLUTIONS
+==========================
+
+1) Issue: My ceiling has started cracking again even though it was repaired last month. This is getting really frustrating.
+   Resolution: Inspector scheduled for tomorrow, escalated to warranty team.
+
+2) Issue: I’ve been charged twice for my deposit. Please fix this immediately.
+   Resolution: Confirmed duplicate transaction. Refund initiated within 3–5 business days.
+
+3) Issue: My flooring materials were supposed to arrive yesterday but still nothing. No update from your team.
+   Resolution: Supplier delay identified. New delivery scheduled for Friday.
+
+4) Issue: I keep getting promotional emails even though I unsubscribed weeks ago.
+   Resolution: Updated communication preferences and removed customer from all marketing lists.
+
+5) Issue: Your customer portal keeps logging me out every time I try to upload a document.
+   Resolution: Cleared session cache on backend. Customer asked to retry.
+
+6) Issue: I cancelled my order two weeks ago and still haven’t received the refund.
+   Resolution: Escalated to finance. Refund to be processed in next payment cycle.
+
+7) Issue: You delivered the wrong tiles. I ordered the matte grey ones, not glossy white!
+   Resolution: Replacement tiles arranged and pickup of incorrect items scheduled.
+
+8) Issue: The bathroom tap is leaking again. This was fixed two months ago but the issue has returned.
+   Resolution: Scheduled plumber visit for inspection tomorrow morning.
+
+9) Issue: I want to upgrade the benchtop to stone. Can you confirm the price difference?
+   Resolution: Sent official quote and timeline impact details.
+
+10) Issue: My phone number has changed. Please update it in your system.
+    Resolution: Contact information successfully updated.
+
+
+==========================
+2. TEST CASES WITHOUT RESOLUTIONS
+==========================
+
+1) My materials haven’t arrived yet and nobody is responding to my emails.
+
+2) My roof is leaking again and it’s starting to damage the plaster.
+
+3) Why did my invoice suddenly increase by $2000 this month?
+
+4) I can’t log into my account. It keeps saying password incorrect even after resetting.
+
+5) The door handles you installed are rusting already. This shouldn’t happen.
+
+6) I’ve been waiting three weeks for my refund. What’s taking so long?
+
+7) No one has shown up at my site for over a week. What is happening?
+
+8) The contract documents have errors in the site address. Please fix it.
+
+9) Your team said tiles would be installed this week but the tiler didn’t even come.
+
+10) This is extremely disappointing. I feel like no one takes my issue seriously.
+
+
+==========================
+3. EXTREME SENTIMENT CASES
+==========================
+
+1) I am extremely angry. This is the worst experience I’ve ever had with any company.
+
+2) Thank you so much! The new inspection team was incredibly helpful.
+
+
+==========================
+4. AMBIGUOUS TOPIC CASES
+==========================
+
+1) Can someone please tell me what is going on with my order?
+
+2) The builder promised a callback but I never got one.
