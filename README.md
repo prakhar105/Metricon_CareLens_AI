@@ -1,11 +1,11 @@
 # 🏡 Metricon CareLens AI
-
+![](https://github.com/prakhar105/Metricon_CareLens_AI/blob/main/logo/metricon_logo.png)
 **Metricon CareLens AI** is an AI-powered, multi-agent support co-pilot built to help customer support and operations teams **quickly understand, classify, and act on customer issues**.
 
 The system leverages **Small Language Models (SLMs)**, **LangGraph-based orchestration**, and a clean **Streamlit UI** to deliver structured, explainable outputs such as **topic classification, sentiment analysis, issue summarization, and recommended next actions**.
 
 This project is implemented as a **production-style Proof of Concept (POC)** inspired by real-world Metricon customer support workflows.
-
+![](https://github.com/prakhar105/Metricon_CareLens_AI/blob/main/assets/img.png)
 ---
 
 ## ✨ Key Capabilities
